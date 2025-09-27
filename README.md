@@ -18,14 +18,13 @@
 
 
 ## 技術スタック
-Category	Technology Stack
 Frontend	Next.js (TypeScript), TailwindCSS
 Backend	Node.js (Express/TypeScript), Prisma
 Database	PostgreSQL(Supabase)
 Infrastructure	Vercel, Supabase
 Design	Figma
 Thirdparty APIs: Clerk, QuickBook API
-etc.	ESLint, Prettier, Husky Jest, Git, GitHub
+etc.ESLint, Prettier, Git, GitHub
 
 ## システム構成図
 機能一覧（画面イメージ）
